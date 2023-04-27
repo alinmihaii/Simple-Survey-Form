@@ -12,12 +12,12 @@ To use this simple form website, follow these steps:
 - Click the "Submit" button to send the form data to the designated email address.
   
   
-  Prerequisites
+Prerequisites
 To use this simple form website, you will need:
   
 - A web browser (Chrome, Firefox, Safari, etc.)
 - An internet connection
 
-  Built With
+Built With:
 - HTML
 - CSS
